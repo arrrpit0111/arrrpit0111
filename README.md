@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey I'm Arpit
 💻 Currently building projects and improving my coding skills.<br>🤝 Open to collaborating on interesting tech projects.<br>🌱 Learning DSA and modern web tech like TypeScript.<br>💬 Ask me about JavaScript and web development.<br>⚡ Fun fact: I enjoy solving coding problems and learning daily.
 
 
